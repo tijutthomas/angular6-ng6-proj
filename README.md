@@ -1,3 +1,5 @@
+Sample done based on this link - https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
+
 # Ng6Proj
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
